@@ -1,6 +1,6 @@
 # Hyperspectral_image_datasets
 
-You can use the following Baidu network disk link to obtain the data set:链接:
+You can use the following Baidu network disk link to obtain datasets:链接:
 https://pan.baidu.com/s/1Ycqd6OehVZha88RUYYXLow?pwd=3839 提取码: 3839
 
 The file contains the following datasets:
